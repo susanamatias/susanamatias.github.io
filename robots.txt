@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://susanamatias.github.io/susanawebsite/sitemap.xml
